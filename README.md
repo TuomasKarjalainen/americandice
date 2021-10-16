@@ -1,10 +1,10 @@
 # American dice
 
-This is a dice game made with C++. 
+This is a gambling game named American dice. 
 
 ## Description
 
-This is gampling game which has console UI. The game consist of placing a bet and throwing a dice and winning a possible doubling feature. You set your user name and then you deposit money into your game account. 
+This is a dice game which you play with console UI. The game consist of placing a bet and throwing a dice and winning a possible doubling feature. You set your user name and then you deposit money into your game account. Game history will be saved to a file.
 
 ## Rules of the game
 
