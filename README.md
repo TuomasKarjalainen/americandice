@@ -1,3 +1,3 @@
 # American dice
 
-This is dice game made with C++ 
+This is a dice game made with C++. 
