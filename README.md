@@ -4,7 +4,7 @@ This is a gambling game named American Dice.
 
 ## Description
 
-A dice game that is supposed to play with console UI. The game consist of placing a bet and throwing a dice and winning a possible doubling feature. You set your username and then you deposit money into your game account. Game history will be saved to a file.
+A dice game that is supposed to play with CLI. The game consist of placing a bet and throwing a dice and winning a possible doubling feature. You set your username and then you deposit money into your game account. Game history will be saved to a file.
 
 ## Rules of the game
 
