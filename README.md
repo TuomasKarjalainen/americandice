@@ -1,4 +1,4 @@
-# American dice
+# The American Dice
 
 This is a gambling game named American Dice. 
 
